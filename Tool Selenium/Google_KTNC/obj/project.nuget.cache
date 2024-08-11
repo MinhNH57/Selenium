@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8WkccRuGpVB9KWus+XxYpfXG6Qn5wl5/r6bIuH2MYxOwGgDVTIilnkx8GPQ+pDrfuuL9TZx97noNI6xzNyZOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\Tool Selenium\\Google_KTNC\\Google_KTNC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\selenium.webdriver.chromedriver\\126.0.6478.6200\\selenium.webdriver.chromedriver.126.0.6478.6200.nupkg.sha512"
+  ],
+  "logs": []
+}

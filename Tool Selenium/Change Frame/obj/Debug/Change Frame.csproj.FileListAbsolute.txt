@@ -1,0 +1,24 @@
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\Change Frame.exe.config
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\Change Frame.exe
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\Change Frame.pdb
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\WebDriver.dll
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\bin\Debug\WebDriver.xml
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame_Content.g.cs
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame_MarkupCompile.cache
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame_MarkupCompile.lref
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame.g.resources
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change_Frame.Properties.Resources.resources
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame.csproj.CopyComplete
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame.exe
+C:\Users\Dell\Desktop\Tool Selenium\Change Frame\obj\Debug\Change Frame.pdb

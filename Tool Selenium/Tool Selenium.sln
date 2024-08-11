@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interact with Facebook", "Thaotaccoban\Interact with Facebook\Interact with Facebook.csproj", "{402572B4-0CBE-4EE2-8125-BBB7E9EE25B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profile", "Thaotaccoban\Profile\Profile.csproj", "{401D47C9-66CE-4334-AA6D-4A04E6A09728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thaotaccoban", "Thaotaccoban\Thaotaccoban\Thaotaccoban.csproj", "{7F53FC9D-17D2-4B3C-9D59-64E4009BF563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRTTC", "WebRTTC\WebRTTC.csproj", "{0A2F242F-C2BE-4D11-A054-EFAB8D2DF8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change Frame", "Change Frame\Change Frame.csproj", "{0E5C38A8-7B1F-4D17-8AD0-29B2BFC813A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06-KiemThuNangCao", "Lab06-KiemThuNangCao\Lab06-KiemThuNangCao.csproj", "{493856A0-9655-4EBE-BD0B-1AA895D943ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google_KTNC", "Google_KTNC\Google_KTNC.csproj", "{87B25E34-1A75-4D8E-833B-B10F0AA618DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402572B4-0CBE-4EE2-8125-BBB7E9EE25B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402572B4-0CBE-4EE2-8125-BBB7E9EE25B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402572B4-0CBE-4EE2-8125-BBB7E9EE25B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402572B4-0CBE-4EE2-8125-BBB7E9EE25B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401D47C9-66CE-4334-AA6D-4A04E6A09728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401D47C9-66CE-4334-AA6D-4A04E6A09728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401D47C9-66CE-4334-AA6D-4A04E6A09728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401D47C9-66CE-4334-AA6D-4A04E6A09728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F53FC9D-17D2-4B3C-9D59-64E4009BF563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F53FC9D-17D2-4B3C-9D59-64E4009BF563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F53FC9D-17D2-4B3C-9D59-64E4009BF563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F53FC9D-17D2-4B3C-9D59-64E4009BF563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2F242F-C2BE-4D11-A054-EFAB8D2DF8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2F242F-C2BE-4D11-A054-EFAB8D2DF8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2F242F-C2BE-4D11-A054-EFAB8D2DF8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2F242F-C2BE-4D11-A054-EFAB8D2DF8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5C38A8-7B1F-4D17-8AD0-29B2BFC813A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5C38A8-7B1F-4D17-8AD0-29B2BFC813A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5C38A8-7B1F-4D17-8AD0-29B2BFC813A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5C38A8-7B1F-4D17-8AD0-29B2BFC813A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{493856A0-9655-4EBE-BD0B-1AA895D943ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493856A0-9655-4EBE-BD0B-1AA895D943ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493856A0-9655-4EBE-BD0B-1AA895D943ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493856A0-9655-4EBE-BD0B-1AA895D943ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B25E34-1A75-4D8E-833B-B10F0AA618DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B25E34-1A75-4D8E-833B-B10F0AA618DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B25E34-1A75-4D8E-833B-B10F0AA618DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B25E34-1A75-4D8E-833B-B10F0AA618DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55DE2D98-77EA-480C-9A1A-FBE72E9F570E}
+	EndGlobalSection
+EndGlobal
